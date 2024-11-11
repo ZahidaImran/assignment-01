@@ -1,4 +1,3 @@
-import { resolve } from "path/posix"
 
 export default async function Stationary(){
     await new Promise((resolve) => {
